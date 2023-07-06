@@ -15,6 +15,7 @@
 #if defined(ARDUINO_MAGTAG29_ESP32S2) || defined(ARDUINO_METRO_ESP32S2) ||     \
     defined(ARDUINO_FUNHOUSE_ESP32S2) ||                                       \
     defined(ADAFRUIT_METRO_M4_AIRLIFT_LITE) || defined(ADAFRUIT_PYPORTAL) ||   \
+    defined(ADAFRUIT_PYPORTAL_M4_TITANO) ||                                    \
     defined(ARDUINO_ADAFRUIT_FEATHER_ESP32S2) ||                               \
     defined(ARDUINO_ADAFRUIT_QTPY_ESP32S2) ||                                  \
     defined(ARDUINO_ADAFRUIT_FEATHER_ESP32S2_TFT) ||                           \
